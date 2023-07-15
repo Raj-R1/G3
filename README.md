@@ -26,6 +26,7 @@ a simple chatbot to handle all the advanced tasks can revolutionize the booking 
 AI has already found its way into the aviation industry, completely transforming multiple sub branches of it. For example, AI models are currently in use for predicting environment sensor malfunctions, by being trained on previous sensor data pre-malfunction and drawing patterns from it. Such accurate predictions can save hundreds of lives when used correctly, and disasters like the Lion Air Flight 610 incident can be avoided in the future (failure of PITO tubes, triggering MCAS, resulting in a crash that took all 189 lives onboard). Furthermore, AI is also being deployed to maximize efficiency of flight operations, routing the best paths after weighing factors like fuel cost, time, distance, efficiency, weather etc. and perhaps most importantly, in ATC management, decreasing the pressure on human operators and improving work environment while increasing the safety of the infrastructure, so that human error related mishaps like the on-runway collision of KLM Air flight 4805 and Pan Am Air flight 1736, which resulted in a tragic loss of nearly 600 souls can be avoided in the future.
 
 While chatbots havent found much use in the industry yet, they aim to revolutionize the customer experience, i.e the process of booking tickets, and confirming details for the flight by making them much more convinient and easier to access for everyone, esepcially people that struggle with modern technology.
+
 ---
 
 # AI Application Case Study:
